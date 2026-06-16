@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/SentinelXofficial" width="100" style="border-radius: 50%" />
+  <img src="https://github.com/SentinelXofficial.png" width="100" style="border-radius: 50%" />
   <h2>SentinelX</h2>
   <p>Independent cybersecurity research group based in Indonesia.</p>
 
